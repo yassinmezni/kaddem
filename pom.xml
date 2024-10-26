@@ -65,11 +65,6 @@
     </build>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>snapshot-repo</id>
-            <name>Nexus Snapshot Repository</name>
-            <url>http://localhost:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
         <repository>
             <id>deploymentRepo</id>
             <name>Nexus Release Repository</name>
