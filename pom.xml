@@ -10,7 +10,7 @@
     </parent>
     <groupId>tn.esprit.spring</groupId>
     <artifactId>kaddem</artifactId>
-    <version>0.0.1-SNAPSHOT</version> <!-- Change to 0.0.1 if you prefer release -->
+    <version>0.0.1</version> <!-- Change to 0.0.1 -->
     <name>kaddem</name>
     <description>kaddem</description>
     <properties>
